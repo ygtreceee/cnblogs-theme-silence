@@ -53,16 +53,3 @@ npm run build
 
 你可以在 [演示案例](https://esofar.github.io/cnblogs-theme-silence/#/showcase) 中看到一些正在使用该主题的园友博客。同时，如果若也目前也在使用该主题，并且希望展示给大家，可以在 [这里](https://github.com/esofar/cnblogs-theme-silence/issues/119) 提交申请，我会不定时更新。
 
-## 赞赏
-
-如果您觉得该主题做的还不错，想对我微小的工作一点激励，欢迎赞赏支持。
-
-<div align="center">
-
-![](./docs/_media/sponsor.png)
-
-</div>
-
-## 许可
-
-MIT © 2020 esofar
